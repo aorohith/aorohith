@@ -27,7 +27,7 @@
 
 Hi, I'm [Rohith A O](https://aorohith.github.io/Personal-Website/), a Full Stack Developer 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ [@Brotoype](https://brototype.in/), Intern 👨🏽‍💻 @Brototype, Searching for a Mentor 👨🏽‍💼 and a Former Flutter coder. Beside's programming, I enjoy eating food, traveling and solving sudoku
 
-  <img align="right" alt="GIF" src="" />
+  <img align="right" alt="GIF" src="https://github.com/aorohith/aorohith/blob/main/code.gif" />
   
 **Talking about Personal Stuffs:**
 
@@ -51,8 +51,8 @@ Hi, I'm [Rohith A O](https://aorohith.github.io/Personal-Website/), a Full Stack
 ```text
 FLutter      7 hrs 41 mins   ████████████▓░░░░░░░░░░░░   50.67 % 
 Firebase     4 hrs 42 mins   ███████▓░░░░░░░░░░░░░░░░░   31.04 % 
-Python       52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-Hive         42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Hive         52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+Python       42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
 Git Config   36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 ```
 <!--END_SECTION:waka-->
@@ -63,6 +63,19 @@ Git Config   36 mins         █░░░░░░░░░░░░░░░░
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aorohith&show_icons=true&theme=gotham" alt="aorohith" />
 
 </details>
+
+## My Statistics
+
+<br/>
+<p align="left">
+  <a href="https://abhigyantrips.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=aorohith&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=aorohith&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
+
+[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhigyantrips&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
 
 -----
 Credits: [aorohith](https://aorohith.github.io/Personal-Website/)
