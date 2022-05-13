@@ -75,7 +75,10 @@ Git Config   36 mins         █░░░░░░░░░░░░░░░░
 </p>
 <br>
 
-[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhigyantrips&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/aorohith"><img alt="aorohith's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aorohith&custom_title=aorohith's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
 
 -----
 Credits: [aorohith](https://aorohith.github.io/Personal-Website/)
