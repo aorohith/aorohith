@@ -1,4 +1,4 @@
-  <img align="right" alt="GIF" src="https://github.com/aorohith/aorohith/blob/main/code.gif" />
+  <img align="center" alt="GIF" src="https://github.com/aorohith/aorohith/blob/main/code.gif" />
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg/qUbApEc">
