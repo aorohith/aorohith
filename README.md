@@ -1,3 +1,5 @@
+  <img align="right" alt="GIF" src="https://github.com/aorohith/aorohith/blob/main/code.gif" />
+
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg/qUbApEc">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
@@ -27,7 +29,7 @@
 
 Hi, I'm [Rohith A O](https://aorohith.github.io/Personal-Website/), a Full Stack Developer 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ [@Brotoype](https://brototype.in/), Intern 👨🏽‍💻 @Brototype, Searching for a Mentor 👨🏽‍💼 and a Former Flutter coder. Beside's programming, I enjoy eating food, traveling and solving sudoku
 
-  <img align="right" alt="GIF" src="https://github.com/aorohith/aorohith/blob/main/code.gif" />
+
   
 **Talking about Personal Stuffs:**
 
